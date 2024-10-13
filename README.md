@@ -9,7 +9,8 @@ Project Title: Hangman
 Table of Contents, if the README file is long
 
 
-A description of the project: C
+A description of the project: 
+The code can now take in a guess, check if the guess is a single letter and see if the guess is in a word. 
 
 Installation instructions
 
